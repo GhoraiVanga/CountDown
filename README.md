@@ -1,4 +1,4 @@
 # CountDown
 <head>
-  <link rel="stylesheet" style="color:red" href="https://ghoraivanga.github.io/CountDown/">
+  <a   style="color:red" href="https://ghoraivanga.github.io/CountDown/"> Project Link</a>
 </head>
